@@ -53,19 +53,6 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <!-- CONNECTION -->
      
-<h3 align="center">Connect with me:</h3>
-
-<div align="center">
-  <a href="https://discord.com/users/265980074921164800" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/fran.lr02/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://open.spotify.com/user/rwx1zmrvtv8fxo29tg9669bkh" target="_blank">
-     <img src="https://github.com/user-attachments/assets/43037adb-0312-400a-bc38-a6201c3878ff" width="52" height="40" alt="spotify logo"  />
-  </a>
-</div>
 
 
 
